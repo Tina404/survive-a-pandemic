@@ -40,6 +40,8 @@ Note: Each type of face masks has an effective lifetime, for example, surgical m
 
 ## Medicine
 - Thermometer
+- First Aid Kit
+- Any medicine you might need for 1-3 months
 
 ## Cleaning
 - Toilet Paper
