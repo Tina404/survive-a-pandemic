@@ -9,6 +9,12 @@ Note: Each type of face masks has an effective lifetime, for example, surgical m
 - Gloves
   - Disposable Rubber Gloves
   - Medical Gloves
+- Eye protection
+  - Goggles
+- Face masks
+- Disposable Coverall suits
+- Disposable Boot & Shoe
+- Antiseptic wipes
 - Anti-Bacterial Soap
 - Hand Sanitizer
 
