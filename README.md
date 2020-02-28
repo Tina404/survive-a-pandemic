@@ -6,7 +6,9 @@ This project is intended to get you well prepared to survive a Pandemic.
 - Surgical Masks
 Note: Each type of face masks has an effective lifetime, for example, surgical masks might be good for 4 hours, while N-95 masks might last longer.
 
-- Disposable Rubber Gloves
+- Gloves
+  - Disposable Rubber Gloves
+  - Medical Gloves
 - Anti-Bacterial Soap
 - Hand Sanitizer
 
