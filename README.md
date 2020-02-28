@@ -1,11 +1,18 @@
 # Survive a Pandemic
 This project is intended to get you well prepared to survive a Pandemic. 
 
-# Masks
-- N-95 Masks
-- Surgical Masks
-Note: Each type of face masks has an effective lifetime, for example, surgical masks might be good for 4 hours, while N-95 masks might last longer.
+## Quarantine
 
+- Stay at home
+- Stay away from the crowd
+- Say no to visitors
+
+## Protect yourself
+
+- Masks
+  - N-95 Masks
+  - Surgical Masks
+  - Note: Each type of face masks has an effective lifetime, for example, surgical masks might be good for 4 hours, while N-95 masks might last longer.
 - Gloves
   - Disposable Rubber Gloves
   - Medical Gloves
