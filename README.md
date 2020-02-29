@@ -1,5 +1,8 @@
 # Survive a Pandemic
-This project is intended to get you well prepared to survive a Pandemic. You are welcome to add to this list. Please refer to the [Contribution Guide](./CONTRIBUTING.md)
+
+This project is intended to get you well prepared to survive a Pandemic.
+
+* If you want to make changes to this project, please refer to the [Contribution Guide](./CONTRIBUTING.md). Any contribution is welcome, thanks!
 
 ## Quarantine
 
